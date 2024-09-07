@@ -1,0 +1,104 @@
+ #a{
+    background-color: palevioletred;
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 1px solid white;
+    box-shadow: 0 0 10px #777777;
+}
+ /* #a{
+    background-color: palevioletred;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 5px;
+    width: 100%;
+    border: 1px solid wheat;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    z-index: 10px;
+ } */
+#b{
+    background-color: indigo;
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+    border: 1px solid white;
+    position: absolute;
+    top: 35px;
+    left: 30px;
+    box-shadow: 0 0 10px #777777;
+}
+#c{
+    background-color: rgb(66, 91, 232);
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+    border: 1px solid white;
+    position: absolute;
+    top: 70px;
+    left: 60px;
+    box-shadow: 0 0 10px #777777;
+}
+#d{
+    background-color: rgb(66, 168, 232);
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+    border: 1px solid white;
+    position: absolute;
+    top: 105px;
+    left: 90px;
+    box-shadow: 0 0 10px #777777;
+}
+#e{
+    background-color: rgb(32, 235, 103);
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+    border: 1px solid white;
+    position: absolute;
+    top: 140px;
+    left: 120px;
+    box-shadow: 0 0 10px #777777;
+}
+#f{
+    background-color: orange;
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+    border: 1px solid white;
+    position: absolute;
+    top: 175px;
+    left: 150px;
+    box-shadow: 0 0 10px #777777;
+}
+#g{
+    background-color: red;
+    height: 50px;
+    width: 150px;
+    padding: 5px;
+    font-style: italic;
+    color: white;
+    border: 1px solid white;
+    position: absolute;
+    top: 210px;
+    left: 180px;
+    box-shadow: 0 0 10px #777777;
+}
